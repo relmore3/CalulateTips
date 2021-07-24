@@ -1,13 +1,6 @@
 import java.util.Scanner;
 public class CalculateTips {
 
-	/***************************************
-	COSC 1173 Lab Section 48F - Spring 2021
-	Assignment 1 - Programming Assignment: Calculate Tips
-	Name: Robert Elmore
-	Date:2/3/2021
-	****************************************/ 
-	
 	
   public static void main(String[] args) {
     
